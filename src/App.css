@@ -1,0 +1,11 @@
+.App {
+  background: #000;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: barlow, sans-serif;
+  justify-content: center;
+  margin: 0;
+  scroll-behavior: smooth;
+  width: 100%;
+  height: 100vh;
+}
